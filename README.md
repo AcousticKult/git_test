@@ -1,0 +1,1 @@
+This is ACOUSTIC KULT'S first git project!
